@@ -1,0 +1,30 @@
+# Environment files
+.env
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE files
+.vscode/
+.idea/
+
+# Backend temporary files
+backend/diagnostic_db.py
+backend/fix_hashes.py
+backend/test_connection.py
+backend/test_auth.py
+backend/fix.sql
+
+# System generated
+.gemini/
+.antigravityignore
+node_modules/
+dist/
+build/
+*.class
+
+# Root artifacts
+splash_bg.png
+task.md
+walkthrough.md
+implementation_plan*.md

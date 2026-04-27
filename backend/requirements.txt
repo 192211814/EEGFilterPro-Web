@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+numpy
+pandas
+scikit-learn
+PyJWT
+passlib[bcrypt]
+python-multipart
+email-validator
+mysql-connector-python
+sqlalchemy
+mne
+scipy
+matplotlib
+edfio
+python-dotenv
